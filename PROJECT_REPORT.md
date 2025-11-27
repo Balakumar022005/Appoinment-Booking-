@@ -1,5 +1,8 @@
 # Appointment Booking System - Project Report
 
+**Frontend (Live):** [https://loveconnect-frontend-3i943d6ki-balakumar022005s-projects.vercel.app/booking](https://loveconnect-frontend-3i943d6ki-balakumar022005s-projects.vercel.app/booking)  
+**Backend API (Live):** [https://appoinment-booking-nccq.onrender.com/api/appointments](https://appoinment-booking-nccq.onrender.com/api/appointments)
+
 ## 1. Project Overview
 The **Appointment Booking System** is a full-stack web application designed to facilitate the scheduling of appointments. It serves two primary user roles: **Users**, who can register, log in, and book appointments; and **Admins**, who can manage and view all booked appointments. The application is built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js), ensuring a robust and scalable architecture.
 
